@@ -1,0 +1,4 @@
+-- Infinite Tower Auto Farmer Main Code Holder
+while wait() do
+game.Workspace.LobbyTeleport.Interaction.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+end
